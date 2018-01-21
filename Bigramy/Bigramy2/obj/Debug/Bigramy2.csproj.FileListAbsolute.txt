@@ -1,0 +1,7 @@
+C:\Users\Rudni\Dropbox\AiSD\Barosz.Rudnicki-AiSD-czw-11.30\Bigramy\Bigramy2\bin\Debug\Bigramy2.exe.config
+C:\Users\Rudni\Dropbox\AiSD\Barosz.Rudnicki-AiSD-czw-11.30\Bigramy\Bigramy2\bin\Debug\Bigramy2.exe
+C:\Users\Rudni\Dropbox\AiSD\Barosz.Rudnicki-AiSD-czw-11.30\Bigramy\Bigramy2\bin\Debug\Bigramy2.pdb
+C:\Users\Rudni\Dropbox\AiSD\Barosz.Rudnicki-AiSD-czw-11.30\Bigramy\Bigramy2\obj\Debug\Bigramy2.csprojResolveAssemblyReference.cache
+C:\Users\Rudni\Dropbox\AiSD\Barosz.Rudnicki-AiSD-czw-11.30\Bigramy\Bigramy2\obj\Debug\Bigramy2.csproj.CoreCompileInputs.cache
+C:\Users\Rudni\Dropbox\AiSD\Barosz.Rudnicki-AiSD-czw-11.30\Bigramy\Bigramy2\obj\Debug\Bigramy2.exe
+C:\Users\Rudni\Dropbox\AiSD\Barosz.Rudnicki-AiSD-czw-11.30\Bigramy\Bigramy2\obj\Debug\Bigramy2.pdb
