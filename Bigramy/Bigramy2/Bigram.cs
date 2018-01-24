@@ -7,9 +7,9 @@ namespace Bigramy2
     public class Bigram
     {
         public  string name;
-        public float value;
+        public double value;
 
-        public Bigram(string name, float value)
+        public Bigram(string name, double value)
         {
             this.name = name;
             this.value = value;

@@ -60,6 +60,8 @@ namespace Bigramy2
                     }
                 }
             }
+            list.Sort((x, y) => x.name.CompareTo(y.name));
+            RemoveNotUsed(list);
             return list;
         }
 
@@ -68,9 +70,9 @@ namespace Bigramy2
         /// </summary>
         /// <param name="text">String of text</param>
         /// <returns></returns>
-        public static List<Bigram> ApperanceOfBigramsPercentage(string tekst)
+        public static List<Bigram> ApperanceOfBigramsPercentage(string text)
         {
-            var list = ApperanceOfBigrams(tekst);
+            var list = ApperanceOfBigrams(text);
             ToPercentage(list);
             return list;
         }
